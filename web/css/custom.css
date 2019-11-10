@@ -1,0 +1,10 @@
+div.col-sm-3.services-right-grid div.services-icon i.fa{
+	color: #FF6B61;
+	font-size: 30px !important; 
+
+}
+
+
+div.col-sm-3.services-right-grid:hover div.services-icon  i.fa{
+	color: #FFF;
+}
